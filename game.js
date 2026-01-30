@@ -146,3 +146,5 @@ render();
 let test = new Rectangle(10, 10);
 test.setPosition(getWidth()/2 - 5, getHeight()/2 - 5);
 add(test);
+
+console.log("NEW ENGINE LOADED");
